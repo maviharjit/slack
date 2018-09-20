@@ -1,2 +1,34 @@
-/who
+https://get.slack.help/hc/en-us/articles/201259356-Built-in-slash-commands
+
+List of slash commands
+=========================
+Command	Action
+/apps*	Search for Slack apps in the App Directory
+/archive	Archive the current channel
+/away*	Toggle your "away" status
+/collapse	Collapse all inline images and video in the current channel (opposite of /expand) 
+/dnd [some description of time] 	Start or end a Do Not Disturb session 
+/expand	Expand all inline images and video in the current channel (opposite of /collapse) 
+/feed help [or subscribe, list, remove] 	Manage RSS subscriptions 
+/feedback [your text] 	Send feedback to Slack 
+/invite @someone [#channel]	Invite a member to a channel 
+/join [#channel]	Open a channel and become a member
+/leave (or /close or /part)	Leave a channel
+/me [your text]	Display italicized text, e.g. "/me does a dance" will display as "does a dance" 
+/msg (or /dm) @someone [your message] 	Send a private direct message to another member
+/mute	Mute a channel (or unmute a channel that is muted)
+/open [#channel]	Open a channel
+/prefs * 	Open your preferences 
+/remind [@someone or #channel] to [What] [When]**	Set a reminder a member or a channel 
+/remind help**	Learn more about how to set reminders
+/remind list	Get a list of reminders you have set
+/remove (or /kick) @someone	Remove a member from the current channel. This action may be restricted to Workspace Owners or Admins
+/rename [new name]**	Rename a channel (Admin only)
+/search [your text]* 	Search Slack messages and files 
+/shortcuts* 	Open the keyboard shortcuts menu 
+/shrug [your message]	Appends ¯\_(ツ)_/¯ to the end of your message
+/star * 	Star the current channel or conversation 
+/status	Set or clear your status
+/topic [text]	Set the channel topic
+/who	List members in the current channel
 
